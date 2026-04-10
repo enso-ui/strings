@@ -1,12 +1,6 @@
 # Strings
 
-![npm license](https://img.shields.io/npm/l/@enso-ui/strings.svg) 
-![npm download](https://img.shields.io/npm/dm/@enso-ui/strings.svg) 
-![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/strings.svg) 
-![GitHub issues](https://img.shields.io/github/issues/enso-ui/strings.svg) 
-![npm version](https://img.shields.io/npm/v/@enso-ui/strings.svg) 
-
-Quickview
+String helpers.
 
 ## Usage
 
@@ -16,7 +10,7 @@ For live examples and demos, you may visit [laravel-enso.com](https://www.larave
 
 ### Installation, Configuration & Usage
 
-...
+This package contains helper functions such as `snake`, `slug`, `pascal`, `camel`, `lcfirst`, `lcwords`, and `ucfirst`.
 
 ## Contributions
 
@@ -26,4 +20,4 @@ Thank you to all the people who already contributed to Enso!
 
 ## License
 
-[ISC](https://opensource.org/licenses/ISC)
+[MIT](LICENSE)
