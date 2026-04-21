@@ -1,22 +1,22 @@
 {
-  "name": "@enso-ui/strings",
-  "version": "2.1.0",
-  "description": "String helpers",
-  "main": "src/strings.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/@enso-ui/strings.git"
-  },
-  "keywords": [
-    "accessories",
-    "strings",
-    "vue"
-  ],
-  "author": "Adrian Ocneanu <aocneanu@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/@enso-ui/strings/issues"
-  },
-  "homepage": "https://github.com/@enso-ui/strings#readme",
-  "dependencies": {}
+    "name": "@enso-ui/strings",
+    "version": "2.1.0",
+    "description": "String helper utilities for Enso UI packages.",
+    "main": "src/strings.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/@enso-ui/strings.git"
+    },
+    "keywords": [
+        "accessories",
+        "strings",
+        "vue"
+    ],
+    "author": "Adrian Ocneanu <aocneanu@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/@enso-ui/strings/issues"
+    },
+    "homepage": "https://github.com/@enso-ui/strings#readme",
+    "dependencies": {}
 }
